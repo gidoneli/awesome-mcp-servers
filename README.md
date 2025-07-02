@@ -850,6 +850,8 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - MCP server that searches Baseline status using Web Platform API
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - This is a TypeScript-based MCP server that provides DuckDuckGo search functionality.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
+- - [Bright Data MCP](https://get.brightdata.com/github-mcp-server) – Commercial-grade cloud-hosted MCP server that allows LLMs to extract real-time public web data. Includes proxy rotation, unlocker, and structured output options. Used in AI pipelines, RAG, competitive intel, and market monitoring.
+
 
 ### 🔒 <a name="security"></a>Security
 
